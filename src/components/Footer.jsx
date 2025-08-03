@@ -39,11 +39,11 @@ const Footer = () => {
               <div className="contact-info">
                 <p>
                   <i className="fas fa-envelope"></i>
-                  <a href="mailto:support@findmaasi.com">support@findmaasi.com</a>
+                  <a href="mailto:support@findmaasi.com">support@ashishfindmaasi.com</a>
                 </p>
                 <p>
                   <i className="fas fa-phone"></i>
-                  <a href="tel:+919876543210">+91 9876543210</a>
+                  <a href="tel:+919876543210">+91 798580XXXX</a>
                 </p>
                 <p>
                   <i className="fas fa-map-marker-alt"></i>
@@ -77,8 +77,8 @@ const Footer = () => {
         
         <div className="footer-bottom">
           <div className="footer-bottom-content">
-            <p>&copy; 2024 FindMaasi.com. All rights reserved.</p>
-            <p>Made with <i className="fas fa-heart"></i> for HIT students</p>
+            <p>&copy; 2025 FindMaasi.com. All rights reserved.</p>
+            <p>Made by Ashish with <i className="fas fa-heart"></i> for HIT students</p>
           </div>
         </div>
       </div>

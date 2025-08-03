@@ -42,7 +42,7 @@ const ContactUs = () => {
                 <i className="fas fa-envelope"></i>
               </div>
               <h3>Email Us</h3>
-              <p>support@findmaasi.com</p>
+              <p>support@ashishfindmaasi.com</p>
               <p>info@findmaasi.com</p>
             </div>
 
@@ -51,7 +51,7 @@ const ContactUs = () => {
                 <i className="fas fa-phone"></i>
               </div>
               <h3>Call Us</h3>
-              <p>+91 9876543210</p>
+              <p>+91 798580xxxx</p>
               <p>Available 24/7</p>
             </div>
 
@@ -60,7 +60,7 @@ const ContactUs = () => {
                 <i className="fas fa-map-marker-alt"></i>
               </div>
               <h3>Visit Us</h3>
-              <p>HIT Campus</p>
+              <p>gandhinagar M.Bera building</p>
               <p>Haldia, West Bengal</p>
             </div>
 

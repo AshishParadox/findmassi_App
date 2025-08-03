@@ -119,16 +119,16 @@
 }
 
 .social-link {
-  width: 45px;
-  height: 45px;
+  width: 28px;
+  height: 40px;
   background: linear-gradient(45deg, rgb(214, 211, 0), rgb(194, 191, 0));
   color: #000;
   display: flex;
   align-items: center;
   justify-content: center;
   border-radius: 50%;
-  text-decoration: none;
-  font-size: 1.2rem;
+  text-decoration:none;
+  font-size: 1.3rem;
   transition: all 0.3s ease;
   box-shadow: 0 3px 10px rgba(214, 211, 0, 0.3);
 }

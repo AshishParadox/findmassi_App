@@ -36,7 +36,7 @@
 }
 
 .contact-header .title-underline {
-  background: linear-gradient(45deg, rgb(214, 211, 0), rgb(194, 191, 0));
+  background: linear-gradient(45deg, rgb(240, 209, 5), rgb(185, 229, 11));
 }
 
 .section-subtitle {
@@ -80,7 +80,7 @@
 .contact-icon {
   width: 60px;
   height: 60px;
-  background: linear-gradient(45deg, rgb(214, 211, 0), rgb(194, 191, 0));
+  background: linear-gradient(45deg, rgb(31, 30, 4), rgb(236, 236, 209));
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -136,7 +136,7 @@
 .social-icon {
   width: 50px;
   height: 50px;
-  background: linear-gradient(45deg, rgb(214, 211, 0), rgb(194, 191, 0));
+  background: linear-gradient(45deg, rgb(61, 61, 56), rgb(194, 191, 0));
   border-radius: 50%;
   display: flex;
   align-items: center;
@@ -193,7 +193,7 @@
 
 .contact-form input:focus,
 .contact-form textarea:focus {
-  border-color: rgb(214, 211, 0);
+  border-color: rgb(227, 237, 27);
   box-shadow: 0 0 0 3px rgba(214, 211, 0, 0.1);
   transform: translateY(-2px);
 }
@@ -204,7 +204,7 @@
 }
 
 .submit-btn {
-  background: linear-gradient(45deg, rgb(214, 211, 0), rgb(194, 191, 0));
+  background: linear-gradient(45deg, rgb(214, 211, 0), rgb(246, 242, 5));
   color: #000;
   border: none;
   padding: 1rem 2rem;
@@ -223,8 +223,8 @@
 
 .submit-btn:hover {
   transform: translateY(-3px);
-  box-shadow: 0 10px 25px rgba(214, 211, 0, 0.3);
-  background: linear-gradient(45deg, rgb(234, 231, 0), rgb(214, 211, 0));
+  box-shadow: 0 10px 25px rgba(52, 52, 41, 0.3);
+  background: linear-gradient(45deg, rgb(234, 231, 0), rgb(88, 87, 14));
 }
 
 .submit-btn:active {

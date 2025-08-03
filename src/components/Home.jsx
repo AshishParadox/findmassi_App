@@ -31,7 +31,7 @@ const Home = () => {
         <div className="hero-image">
           <div className="hero-placeholder">
             <i className="fas fa-home fa-5x"></i>
-            <p>Making Campus Life Easier</p>
+            <p>Making college Life Easier for you all </p>
           </div>
         </div>
       </section>
