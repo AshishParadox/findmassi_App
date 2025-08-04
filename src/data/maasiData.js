@@ -13,7 +13,7 @@ export const maasiData = [
     services: ["cooking", "cleaning", "laundry"],
     foodType: "both",
     specialties: ["Dal Chawal", "Roti", "Sabji", "Ghugni", "Paratha", "Maach", "Chicken"],
-    rating: 3.8,
+    rating: .8,
     price: "₹150/day"
   },
   {
